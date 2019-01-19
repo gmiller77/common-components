@@ -1,0 +1,1 @@
+This sample represents a simple-footer, as learned in CodeBerrySchool.
